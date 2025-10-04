@@ -1,7 +1,7 @@
 # CloverCore🍀 
 
 model supported:
-deepseek v3+
+deepseek v3+ ,
 deepseek R1+
 
 
